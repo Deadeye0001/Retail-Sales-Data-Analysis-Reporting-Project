@@ -270,3 +270,5 @@ Through this project, I improved my understanding of:
 
 Data Analytics Enthusiast  
 SQL | Power BI | Data Analysis
+
+This is a combine project with the Data warehouse Project and you can check it out : https://github.com/Deadeye0001/sql-data-warehouse-project
